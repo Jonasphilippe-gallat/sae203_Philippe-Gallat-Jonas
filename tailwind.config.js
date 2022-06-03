@@ -12,6 +12,7 @@ module.exports = {
         "BebasNeue": ['Bebas Neue']
       },
       fontSize: {
+        'sheesh': '.7rem',
         'xxs': '.5rem',
         'magofaisduxs': '.4rem',
         'xxxs': '.25rem',

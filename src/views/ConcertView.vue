@@ -24,4 +24,41 @@
       alt="photo concert"
     />
   </div>
+  <div class="m-3">
+    <img src="src/img/imgconc.jpg" alt="" />
+    <div class="grid grid-cols-2 uppercase items-center mt-7 mb-14">
+      <div
+        class="
+          flex flex-col
+          justify-center
+          items-center
+          text-xs
+          sm:text-lg
+          lg:text-2xl
+        "
+      >
+        <ul class="flex flex-col gap-8 sm:gap-10 lg:gap-14">
+          <li>4 place des palaces, 85005 paris</li>
+          <li>Boissons et snacks sur place</li>
+          <li>ouverture de la salle : 18h30</li>
+        </ul>
+      </div>
+      <div
+        class="
+          flex flex-col
+          justify-center
+          items-center
+          text-xs
+          sm:text-lg
+          lg:text-2xl
+        "
+      >
+        <ul class="flex flex-col gap-8 sm:gap-10 lg:gap-14">
+          <li>scène n°3</li>
+          <li>camping et hÔtels aux alentours</li>
+          <li>espace fumeur en dehors de la salle</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </template>

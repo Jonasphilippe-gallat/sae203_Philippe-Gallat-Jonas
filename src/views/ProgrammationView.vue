@@ -367,7 +367,7 @@
     <div class="w-full flex justify-center mt-24">
       <div
         class="
-          click:hidden
+          pointer-events-auto:hidden
           align-middle
           z-20
           h-10
